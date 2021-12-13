@@ -1,7 +1,8 @@
-package com.akilincarslan.basicchatapp
+package com.akilincarslan.basicchatapp.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.akilincarslan.basicchatapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
